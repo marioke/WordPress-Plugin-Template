@@ -1,0 +1,22 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeActionsOnSave": {
+        "editor.formatOnSave": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.renderWhitespace": "all",
+    "editor.stickyScroll.enabled": true,
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 4,
+    "editor.useTabStops": true,
+    "search.quickOpen.history.filterSortOrder": "recency",
+    "search.quickOpen.includeHistory": false,
+    "typescript.autoClosingTags": false,
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
