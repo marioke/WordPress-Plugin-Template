@@ -1,2 +1,3 @@
-# WordPress-Plugin-Template
-Very very simple template for creating a new WordPress plugin project
+# WordPress Plugin Template
+
+This template serves a simple WordPress plugin structure with `internationalization` and `spl autoloading` support.
